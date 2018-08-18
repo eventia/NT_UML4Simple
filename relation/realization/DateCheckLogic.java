@@ -1,11 +1,11 @@
 package kr.co.nextree.classdiagram.relation.realization;
-
+// euc-kr , utf-8
 
 public class DateCheckLogic implements CheckLogic {
 
 	@Override
 	public boolean isTrue() {
-		// 朝楼客 包访等 眉农肺流 荐青
+		// 雮犾鞕� 甏�霠悳 觳错伂搿滌 靾橅枆
 		return true;
 	}
 }
