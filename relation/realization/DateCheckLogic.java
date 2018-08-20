@@ -1,5 +1,6 @@
 package kr.co.nextree.classdiagram.relation.realization;
 // euc-kr , utf-8
+// 한글처리
 
 public class DateCheckLogic implements CheckLogic {
 
